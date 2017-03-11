@@ -4,10 +4,10 @@
 * how its working prinpiple here 
 * (https://en.wikipedia.org/wiki/Bean_machine)
 *
-* The sketch has been constructed with a procedural 
+* The sketch has been designed with a procedural 
 * architecture in mind; what does it mean is that 
 * you can modify the geometrical structure of the 
-* Bean Machine with ease by simply changing some global 
+* Bean Machine easily simply by changing some global 
 * variables, and the code will adjust itself automatically
 */
 
@@ -234,5 +234,5 @@ void conteggioBiglie() {
 void keyPressed()
 {
   if(key == ' ')
-    saveFrame("./frames/frame-####.png");
+    //saveFrame("./frames/frame-####.png");
 }
