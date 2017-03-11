@@ -12,7 +12,7 @@ The sketch has been designed with a procedural architecture in mind; what does i
 
 In order to use the code you need:
 * to have your _Processing_ IDE up and running (look [here](https://vimeo.com/140600280) on how to set-up the Processing environment);
-* install the _PBox2D_ library (for more information on how to install a library for your Processing environment, please visit [this](https://github.com/processing/processing/wiki/How-to-Install-a-Contributed-Library) link;
+* install the _PBox2D_ library (for more information on how to install a library for your Processing environment, please visit [this](https://github.com/processing/processing/wiki/How-to-Install-a-Contributed-Library) link);
 * Download the code from this repository, open it with your Processing IDE and run it!
 
 ## Notes
