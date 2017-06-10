@@ -4,7 +4,7 @@ This is a sketch made with [Processing](https://processing.org/) and the [PBox2D
 
 It is a simulation of the [**Beam Machine**](https://en.wikipedia.org/wiki/Bean_machine) by sir. Francis Galton (a.k.a. _Galton box_).
 
-You can see the sketch in action in this [video](https://vimeo.com/87855949)!
+You can see the sketch in action in this [video](https://youtu.be/r-LoCYxqUMk)!
 
 The sketch has been designed with a procedural architecture in mind; what does it mean is that you can modify the geometrical structure of the _Bean Machine_ easily simply by changing some global variables, and the code will adjust itself automatically.
 
